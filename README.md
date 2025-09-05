@@ -19,4 +19,4 @@ Sou estudante do senac Americana,faço curso de multimidia.
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulowh&show_icons=true&theme=nightowl)</code>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yerem&sow_icons=true&theme=dark)</code>
